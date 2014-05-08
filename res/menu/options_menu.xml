@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/list_new"
+            android:title="@string/list_new"/>
+    <item
+            android:id="@+id/settings"
+            android:title="@string/settings"/>
+
+    <item
+            android:id="@+id/list_rename"
+            android:title="@string/list_rename"/>
+    <item
+            android:id="@+id/list_delete"
+            android:title="@string/list_delete"/>
+    <item
+            android:id="@+id/list_send"
+            android:title="@string/list_send"/>
+    <item
+            android:id="@+id/list_select_all"
+            android:title="@string/list_select_all"/>
+    <item
+            android:id="@+id/about"
+            android:title="@string/about"/>
+</menu>
